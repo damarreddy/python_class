@@ -1,0 +1,1 @@
+dict = {'Name': 'sony', 'Age': 20, 'class': 'first'}
